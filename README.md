@@ -10,4 +10,5 @@
   - 13:00 - [COMP1238 - Data Mgmnt](https://learn.georgebrown.ca/d2l/home/334969)
   - 16:00 - [COMP1176 - Personal Finance](https://learn.georgebrown.ca/d2l/home/320502)
 - **Tuesday**
-  - etc
+  - 1:00 -  [COMP3061 - Cyber Security](https://learn.georgebrown.ca/d2l/home/321537)
+  - 3:00 -  [COMP1234 - Networks](https://learn.georgebrown.ca/d2l/home/333839)
